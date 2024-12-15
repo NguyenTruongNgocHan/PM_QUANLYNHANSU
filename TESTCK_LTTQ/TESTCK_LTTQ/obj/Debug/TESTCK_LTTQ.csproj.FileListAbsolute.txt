@@ -1,0 +1,13 @@
+D:\TESTCK_LTTQ\TESTCK_LTTQ\bin\Debug\TESTCK_LTTQ.exe.config
+D:\TESTCK_LTTQ\TESTCK_LTTQ\bin\Debug\TESTCK_LTTQ.exe
+D:\TESTCK_LTTQ\TESTCK_LTTQ\bin\Debug\TESTCK_LTTQ.pdb
+D:\TESTCK_LTTQ\TESTCK_LTTQ\obj\Debug\TESTCK_LTTQ.csproj.AssemblyReference.cache
+D:\TESTCK_LTTQ\TESTCK_LTTQ\obj\Debug\TESTCK_LTTQ.Form1.resources
+D:\TESTCK_LTTQ\TESTCK_LTTQ\obj\Debug\TESTCK_LTTQ.Form2.resources
+D:\TESTCK_LTTQ\TESTCK_LTTQ\obj\Debug\TESTCK_LTTQ.Properties.Resources.resources
+D:\TESTCK_LTTQ\TESTCK_LTTQ\obj\Debug\TESTCK_LTTQ.Resource1.resources
+D:\TESTCK_LTTQ\TESTCK_LTTQ\obj\Debug\TESTCK_LTTQ.csproj.GenerateResource.cache
+D:\TESTCK_LTTQ\TESTCK_LTTQ\obj\Debug\TESTCK_LTTQ.csproj.CoreCompileInputs.cache
+D:\TESTCK_LTTQ\TESTCK_LTTQ\obj\Debug\TESTCK_LTTQ.exe
+D:\TESTCK_LTTQ\TESTCK_LTTQ\obj\Debug\TESTCK_LTTQ.pdb
+D:\TESTCK_LTTQ\TESTCK_LTTQ\obj\Debug\TESTCK_LTTQ.Form3.resources
